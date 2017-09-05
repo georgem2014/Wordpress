@@ -1,4 +1,4 @@
-Customer Name                              Contract             Description                              Expiry Date Bill Date Exists?      Amount
+1Customer Name                              Contract             Description                              Expiry Date Bill Date Exists?      Amount
 -------- --------------------------------- -------------------- ---------------------------------------- ----------- --------- -------- ----------
                                                                 Contract does not have a valid template
 @PW1            T A X  I N V O I C E PW0

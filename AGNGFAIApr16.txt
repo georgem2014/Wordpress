@@ -1,0 +1,2110 @@
+Customer Name                              Contract             Description                              Expiry Date Bill Date Exists?      Amount
+-------- --------------------------------- -------------------- ---------------------------------------- ----------- --------- -------- ----------
+                                                                Contract does not have a valid template
+@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    F & P CORPORATE & GROUP SERVICES          F & P CORPORATE & GROUP SERVICES
+    PO BOX 58546                              78 SPRINGS ROAD                 
+    GREENMOUNT                                EAST TAMAKI                     
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087190 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             F&PCOR                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800053 F&P CORP Support & Maintenance 01/06/2016 to 30/06/2016                                                             5940.06
+    24 hour coverage of all NZ sites PO number 5030289                                                  
+    Attention: Mark Corboy                                                                              
+    $4,772.14 NZ sites                                                                                  
+    $    63.36 Rayong Thailand                                                                          
+    $   27.14 Toronto, Canada                                                                           
+    $  401.10 Sydney Warehouse/Sales Office relocation plus CM6 Auckland                                
+    $  460.84 Qingdao, China (April 2014)                                                               
+    $  215.48 India (August 2014)                                                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             5940.06
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 891.01
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         6831.07
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    F & P CORPORATE & GROUP SERVICES          F & P CORPORATE & GROUP SERVICES
+    PO BOX 58546                              78 SPRINGS ROAD                 
+    GREENMOUNT                                EAST TAMAKI                     
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087191 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             F&PCOR                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800053a F&P Australia Support & Maintenance 01/06/2016 to 30/06/2016                                                        790.92
+    Attn: Mark Hindle                                                                                   
+    Weippin St, Cleveland                                                                               
+    Queensland 4163                                                                                     
+    Australia                                                                                           
+                                                                                                        
+    $737.92 Cleveland                                                                                   
+    $53.00 Sydney                                                                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              790.92
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 118.64
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          909.56
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    NEW ZEALAND AUTOMOBILE ASSN.              NEW ZEALAND AUTOMOBILE ASSN.    
+    TELECOMMUNICATIONS MANAGER                HEAD OFFICE                     
+    PO BOX 5                                  99 ALBERT STREET                
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087192 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             122126                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800087 NZAA Albert St Support & Maintenance 01/06/2016 to 30/06/2016                                                      20673.96
+    Experience Portal, Albert St & Penrose 24x7, Addition New Membership                                
+    Programme, Apollo Drive, Wellington, Quay St & ECONZ; Melbourne Gateway,                            
+    Avaya Aura, CMSR17 Software Assurance Messaging 08:30-17:00 Mon-Fri                                 
+    SUN Server support cancelled 28/2/2014                                                              
+    THIS INVOICE IS PAID BY AUTOMATIC PAYMENT.  DO NOT AUTHORISE FOR                                    
+    PAYMENT.                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total            20673.96
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                3101.09
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        23775.05
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    AA INSURANCE LTD                          AA INSURANCE LTD                
+    P O BOX 992 - Attn:Eileen Ellison         LEVEL 4,AA CENTRE               
+    AUCKLAND                                  99 ALBERT STREET                
+
+    .                                         .                               
+
+
+                                                 Invoice No. 1087193 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             AAINSU                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800093 AA Insurance Nice Support & Maintenance 01/06/2016 to 30/06/2016                                                    3533.00
+    Maintenance Contract TotalView Workforce Management                                                 
+    Attn: Malama Evangelidaki [young_matelau@aainsurance.co.nz] for maintenance                         
+    invoices.                                                                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             3533.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 529.95
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         4062.95
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Spark New Zealand Trading Limited         Spark New Zealand Trading Limite
+    VENDOR # 314801                                                           
+    P.O.BOX 1800                                                              
+
+    WELLINGTON                                WELLINGTON                      
+
+
+                                                 Invoice No. 1087194 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             TELACC                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800101 Min. of Justice (Greenlane) Support & Maintenance 01/06/2016 to 30/06/2016                                          4791.16
+    PO number 4500896998                                                                                
+    Service Line Manager                                                                                
+    Contact Centre Services                                                                             
+    DDI: +64 9 366 8855 (extn 98855)                                                                    
+    Mob: 0274 939 223                                                                                   
+    Email: kevin.raine@gen-i.co.nz                                                                      
+    Level 9, Gen-I Tower, 66 Wyndham Street                                                             
+    PO Box 8804, Symonds St, Auckland                                                                   
+    SLA WBSE 350014/30123                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             4791.16
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 718.67
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         5509.83
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    FONTERRA CO-OPERATIVE GROUP LTD           FONTERRA CO-OPERATIVE GROUP LTD 
+    PO BOX 3333, Hamilton                     BUILDING 103, LEONARD ISITT DRIV
+    Vendor Number 3023093                     AUCKLAND AIRPORT                
+
+    .                                         .                               
+
+
+                                                 Invoice No. 1087195 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             FONGRO                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800109 Fonterra Co-Op Support & Maintenance 01/06/2016 to 31/08/2016                                                      33258.02
+    Fonterra Support & Maintenance                                                                      
+    Requested by Mike Zentveld                                                                          
+    Purchase Order 8000985822                                                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total            33258.02
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                4988.70
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        38246.72
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    ACCIDENT COMPENSATION CORPORATION         ACCIDENT COMPENSATION CORPORATIO
+    P O BOX 242                               Please Add Address.             
+    WELLINGTON                                                                
+
+    /                                         /                               
+
+
+                                                 Invoice No. 1087196 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             ACCCOM                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800124 ACC Support & Maintenance 01/06/2016 to 30/06/2016                                                                 60516.00
+    Avaya / NICE Platforms - reference number cc892.ac31048                                             
+    Cost Centre 892                                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total            60516.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                9077.40
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        69593.40
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    BLACK 'N' DECKER                          BLACK 'N' DECKER                
+    P O BOX 12135                             5 TE APUNGA PLACE               
+    PENROSE                                   MT WELLINGTON                   
+
+    AUCKLAND .                                AUCKLAND .                      
+
+
+                                                 Invoice No. 1087197 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             BLADEC                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800147 Black & Decker Support & Maintenance 01/06/2016 to 30/06/2016                                                        361.64
+    Monthly support charge                                                                              
+    Attention:  Iain Taylor, Operations Manager, New Zealand                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              361.64
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                  54.25
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          415.89
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    BAYCORP NZ LIMITED                        BAYCORP NZ LIMITED              
+    ACCOUNTS PAYABLE                          Level 1, ORACLE HOUSE           
+    PO BOX 90845 VICTORIA ST                  162-170 VICTORIA ST, WEST, AUCKL
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087198 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             BAYHOL                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800010 Baycorp Support & Maintenance 01/06/2016 to 30/06/2016                                                              8616.67
+    Vitility Support                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             8616.67
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1292.50
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         9909.17
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    EZIBUY LIMITED                            EZIBUY LIMITED                  
+    P O BOX 137264                            208 JOHN F KENNEDY DR           
+    PARNELL, AUCKLAND                         PALMERSTON NORTH                
+
+    .                                         .                               
+
+
+                                                 Invoice No. 1087199 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             EZILTD                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800016 EZI-BUY Support & Maintenance 01/06/2016 to 30/06/2016                                                              4858.43
+    S8730 Servers with CM5.x, G650 Media Gateway, Intuity Audix LX Voicemail, CMS                       
+    Sun Sparc T5120                                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             4858.43
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 728.76
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         5587.19
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Spark New Zealand Trading Limited         Spark New Zealand Trading Limite
+    VENDOR # 314801                                                           
+    P.O.BOX 1800                                                              
+
+    WELLINGTON                                WELLINGTON                      
+
+
+                                                 Invoice No. 1087200 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             TELACC                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800030 Min. of Justice Support & Maintenance 01/06/2016 to 30/06/2016                                                      4794.17
+    Service Line Manager                                                                                
+    Contact Centre Services                                                                             
+    DDI: +64 9 366 8855 (extn 98855)                                                                    
+    Mob: 0274 939 223                                                                                   
+                                                                                                        
+    Level 9, Gen-I Tower, 66 Wyndham Street                                                             
+    PO Box 8804, Symonds St, Auckland                                                                   
+    PO 4500896998                                                                                       
+    SLA WBSE 350014/30123                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             4794.17
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 719.13
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         5513.30
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    AUCKLAND COUNCIL                          AUCKLAND COUNCIL                
+    Attn:  ACCOUNTS PAYABLE                                                   
+    PO BOX 92303, Vendor Code:904224                                          
+
+    Auckland 1142                             Auckland 1142                   
+
+
+                                                 Invoice No. 1087201 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000782                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800032 Waitakere City Support & Maintenance 01/06/2016 to 30/06/2016                                                       2257.68
+    PO 6500019188 - 24 x 7 support for Contact Centre                                                   
+    8 x 5 support for Administration and Library                                                        
+    1 July 2015 to OPEN                                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             2257.68
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 338.65
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         2596.33
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    VODAFONE NZ LIMITED                       VODAFONE NZ LIMITED             
+    ACCOUNTS PAYABLE Vendor 400095839.                                        
+    Private Bag 92209, Victoria Street West                                   
+
+    Auckland 1142 .                           Auckland 1142 .                 
+
+
+                                                 Invoice No. 1087202 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             VFLTWG                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    300000 The Warehouse MeetMe 01/06/2016 to 30/06/2016                                                                        720.00
+    The Warehouse Support - Cloud MeetMe                                                                
+    PO 1501462436 dated 10 February 2016                                                                
+    - Start 1/10/2015 - OPEN                                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              720.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 108.00
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          828.00
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Top Energy Kaikohe Depot                  Top Energy Kaikohe Depot        
+    P O BOX 43                                Memorial Avenu, Kaikohe         
+    KERIKERI 0245                             Attn: J Williams or Lee Needham 
+
+    NORTHLAND 0245                            NORTHLAND 0245                  
+
+
+                                                 Invoice No. 1087203 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000873                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    300002 Top Energy MeetMe 01/06/2016 to 30/06/2016                                                                           475.00
+    MeetMe Enterprise 2 Custom Plan - Service and Maintenance                                           
+    Start 01/08/2014 - 31/07/2016                                                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              475.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                  71.25
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          546.25
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    FARMERS TRADING CO. LTD vendor 1888500    FARMERS TRADING CO. LTD vendor 1
+    PRIVATE BAG 94060 Attn:Fraser Elder       20 LAIDLAW WAY, FLAT BUSH       
+    SOUTH AUCKLAND MAIL CENTRE                MANUKAU CITY                    
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087204 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             FARTRA                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800006 Farmers Service Management 01/06/2016 to 30/06/2016                                                                 7598.22
+    Attn: Fraser Elder - Vendor 1888500 - PO No: 4500833105                                             
+    $3,691.00  Head Office                                                                              
+    $   431.00  Albany                                                                                  
+    $   200.00  Chartwell                                                                               
+    $   226.00  Whakatane                                                                               
+    $   200.00  Palmerston Nth                                                                          
+    $   240.00  The Base                                                                                
+    $   200.00  New Plymouth                                                                            
+    $   200.00  Shirley                                                                                 
+    $     16.80  Riccarton                                                                              
+    $   200.00  Hastings                                                                                
+    $   473.00  AAC                                                                                     
+    $   200.00  Paraparaumu                                                                             
+    $   200.00 Pukekohe                                                                                 
+    $   200.00 Napier                                                                                   
+    $     95.42 Laidlaw Way (Avaya Sft Support yrs 2 & 3)                                               
+    $   225.00 Blenheim                                                                                 
+    $   200.00 Centreplace                                                                              
+    $   200.00 Hornby                                                                                   
+    $   200.00 Wanganui                                                                                 
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             7598.22
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1139.73
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         8737.95
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    WESTPAC BANKING CORPORATION               WESTPAC BANKING CORPORATION     
+    P O BOX 238                               1 THOMPSON STREET               
+    SUVA                                      SUVA, FIJI ISLANDS              
+
+    FIJI .                                    FIJI .                          
+
+
+                                                 Invoice No. 1087205 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000786                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800156 Westpac Pacific Support & Maintenance 01/06/2016 to 30/06/2016                                                     10696.00
+    Reactivate contract for new maintenance which will commence 1 June 2016                             
+    do not send invoice until contract signed and details provided                                      
+    This has been activated so Glenys can add costs to MC 800156                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total            10696.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                   0.00
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        10696.00
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    FUJITSU NEW ZEALAND LIMITED               FUJITSU NEW ZEALAND LIMITED     
+    ATTN: ACCOUNTS PAYABLE                                                    
+    PO BOX 3547                                                               
+
+    WELLINGTON                                WELLINGTON                      
+
+
+                                                 Invoice No. 1087206 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             115471                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800180 Emerald Hotel Service Management 01/06/2016 to 30/06/2016                                                            360.15
+    Maintenance/ Support                                                                                
+    Purchase Order: 4500398916                                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              360.15
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                  54.02
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          414.17
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    ST JOHN                                   ST JOHN                         
+    Private Bag 14902,                        2 Harrison Road                 
+    PANMURE Attn:ICT Operations Manager       MT WELLINGTON, AUCKLAND         
+
+    AUCKLAND PC 1741 0741                     AUCKLAND PC 1741 0741           
+
+
+                                                 Invoice No. 1087207 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             STJOHN                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800184 St John Support & Maintenance 01/06/2016 to 30/06/2016                                                             10578.13
+    Support & Maintenance 01/04/2015 - 31/03/2016                                                       
+    $  9,600.00 Service Desk                                                                            
+    $54,117.36 Per User Fees                                                                            
+    $ 4,800.00 Spare Parts                                                                              
+    $ 4,524.96 SUN Server Support                                                                       
+    $45,359.00 Avaya Software Support plus Upgrades                                                     
+    $ 2,965.00 NICE Software Upgrade Maintenance                                                        
+    $ 5,571.20 Remote Access Charges                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total            10578.13
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1586.72
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        12164.85
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    PLANT AND FOOD RESEARCH (Vendor 17375)    PLANT AND FOOD RESEARCH (Vendor 
+    PRIVATE BAG 92169                         120 MT ALBERT ROAD              
+    AUCKLAND MAIL CENTRE  1142                Sandringham 1025                
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087208 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             HORTRE                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800197 Plant & Food Research Support & Maintenance 01/06/2016 to 30/06/2016                                                3129.70
+    Attn: Francois Griffin                                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             3129.70
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 469.46
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         3599.16
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    IHC                                       IHC                             
+    P O BOX 4155                              LEVEL 15, WILLBANK HOUSE,       
+    WELLINGTON                                57 WILLIS STREET                
+
+    WELLINGTON                                WELLINGTON                      
+
+
+                                                 Invoice No. 1087209 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             IHCINC                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800210 IHC Support and Maintenance 01/06/2016 to 30/06/2016                                                                6722.00
+                                                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             6722.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1008.30
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         7730.30
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Latitude Financial Services Limited       Latitude Financial Services Limi
+    GE Capital Accounts Payable               8 TANGIHUA STREET, AUCKLAND CENT
+    GPO Box 4072, Melbourne, BIC, 3001        AUCKLAND                        
+
+    .                                         .                               
+
+
+                                                 Invoice No. 1087210 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             GEFIN                    27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800220 Latitude Financial Services Limited 01/06/2016 to 30/06/2016                                                        5028.35
+    Support & Maintenance                                                                               
+    Vitility Fees of Voice Recording, Quality Management, Storage Centre plus Spare                     
+    Parts.                                                                                              
+    Purchase Order Number #142100130 [accountspayable.gcf@ge.com]                                       
+    Rachna Vijan                                                                                        
+    IT Service Management Leader                                                                        
+    Latitude Financial Services                                                                         
+    New Zealand                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             5028.35
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 754.25
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         5782.60
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    APN HOLDINGS NZ LIMITED                   APN HOLDINGS NZ LIMITED         
+    PO BOX 1594                               46 ALBERT STREET                
+    Auckland 1140                                                             
+
+    AUCKLAND                                  AUCKLAND                        
+
+
+                                                 Invoice No. 1087211 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             WIL&HO                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800232 APN Holdings Support & Maintenance 01/06/2016 to 30/06/2016                                                         1810.55
+    Vitility Fees & NICE SUM Support                                                                    
+    (15/10/14 Kim manually invoicing)                                                                   
+    NICE $13767.00 per year                                                                             
+    Vitility $7,959.00 per Year                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             1810.55
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 271.58
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         2082.13
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    New Zealand Transport Agency              New Zealand Transport Agency    
+    NZ Transport Agency,                                                      
+    c/-PO Box 30435 , Vendor58668                                             
+
+    Lower Hutt 5040                           Lower Hutt 5040                 
+
+
+                                                 Invoice No. 1087212 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             LANTRA                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800235 NZTA (NICE) Support & Maintenance 01/06/2016 to 30/06/2016                                                          3011.08
+    NICE Perform 3.5 Upgrade Monthly Support & Mainteance                                               
+    Attention:  Michelle Charlton                                                                       
+    PID:17539 [apinvoices@nzta.govt.nz]                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             3011.08
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 451.66
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         3462.74
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    SCHNEIDER ELECTRIC NZ LTD                 SCHNEIDER ELECTRIC NZ LTD       
+    P O Box 132, Enfield Plaza SA 5085        38 Business Parade South, Highbr
+    Australia                                 East Tamaki, Auckland 2013      
+
+    . 0640                                    . 0640                          
+
+
+                                                 Invoice No. 1087213 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             SCHELE                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800237 Schneider Electric Customer Services Support & Maint. 01/06/2016 to 30/06/2016                                      7234.93
+    For Services commencing 6/10/2015 - 5/10/2016 - PO 1750007980                                       
+    - Recording and Quality Management                                                                  
+    - Continuous Improvement Services                                                                   
+    - Change Support                                                                                    
+    Attention:  Kevin Lynn - General Manager Commercial Operations                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             7234.93
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1085.24
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         8320.17
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    VODAFONE NZ LTD  MS                       VODAFONE NZ LTD  MS             
+    ACCOUNTS PAYABLE [Vendor 400095839]       20 Viaduct Harbour Avenue       
+    PRIVATE BAG 92209,VICTORIA STREET WEST    Auckland 1030                   
+
+    AUCKLAND 1142                             AUCKLAND 1142                   
+
+
+                                                 Invoice No. 1087214 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             VODAMS                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800239 Dominion Breweries Managed Services 01/06/2016 to 30/06/2016                                                        8531.75
+    Monthly Managed Services for Dominion Breweries                                                     
+    ***Purchase Order 1501510289-May to 30 September 2016******                                         
+    plus Variation effective 01/05/2012                                                                 
+    Start date 5/09/2011                                                                                
+    Core Services - Call Recording 10 Agents effective June 2012                                        
+    Support CTI Driver, Additional ACM Licences June 2013                                               
+    Attention: Daniel White                                                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             8531.75
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1279.76
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         9811.51
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    VODAFONE NZ LTD  MS                       VODAFONE NZ LTD  MS             
+    ACCOUNTS PAYABLE [Vendor 400095839]       20 Viaduct Harbour Avenue       
+    PRIVATE BAG 92209,VICTORIA STREET WEST    Auckland 1030                   
+
+    AUCKLAND 1142                             AUCKLAND 1142                   
+
+
+                                                 Invoice No. 1087215 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             VODAMS                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800244 Whangarei District Council Support/Maintenance 01/06/2016 to 30/06/2016                                            11297.14
+    Whangarei District Council - Support & Maintenance - PO 1501510340 May 2016                         
+    to 31 October 2016 6 Months.                                                                        
+    Start 01/10/2015 - No End Date                                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total            11297.14
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1694.57
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        12991.71
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    AGILE MANAGED SERVICES LTD                AGILE MANAGED SERVICES LTD      
+    Attention:Jeanette O'Shea                 Attention:Jeanette O'Shea       
+     **NO INVOICE WITH GOODS*****             **NO INVOICE WITH GOODS*****    
+
+    . .                                       . .                             
+
+
+                                                 Invoice No. 1087216 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             AGIMAN                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800245a Restaurant Brands Support 01/06/2016 to 30/06/2016                                                                 1044.89
+    Restaurant Brands - Agile Support  start 28/04/2015 - 27/04/2016                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             1044.89
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                   0.00
+
+    PAYMENT DUE ON :   IMMEDIATE                                                                         Invoice Total         1044.89
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    VODAFONE NZ LTD  MS                       VODAFONE NZ LTD  MS             
+    ACCOUNTS PAYABLE [Vendor 400095839]       20 Viaduct Harbour Avenue       
+    PRIVATE BAG 92209,VICTORIA STREET WEST    Auckland 1030                   
+
+    AUCKLAND 1142                             AUCKLAND 1142                   
+
+
+                                                 Invoice No. 1087217 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             VODAMS                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800260 Universal Music/Pictures Support & Maintenance 01/06/2016 to 30/06/2016                                             1580.00
+    Support & Maintenance                                                                               
+    - Universal Music $858.51                                                                           
+    - Pictures $721.50                                                                                  
+    VFL PO 1501513604                                                                                   
+    Dalia.bahho                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             1580.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 237.00
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         1817.00
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    VODAFONE NZ LTD  MS                       VODAFONE NZ LTD  MS             
+    ACCOUNTS PAYABLE [Vendor 400095839]       20 Viaduct Harbour Avenue       
+    PRIVATE BAG 92209,VICTORIA STREET WEST    Auckland 1030                   
+
+    AUCKLAND 1142                             AUCKLAND 1142                   
+
+
+                                                 Invoice No. 1087218 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             VODAMS                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800262 Transdiesel Support & Maintenance 01/06/2016 to 30/06/2016                                                          7509.00
+    Transdiesel Support & Maintenance -                                                                 
+    Start 01/06/2016 PO# 1501513576                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             7509.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1126.35
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         8635.35
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    VODAFONE NZ LTD  MS                       VODAFONE NZ LTD  MS             
+    ACCOUNTS PAYABLE [Vendor 400095839]       20 Viaduct Harbour Avenue       
+    PRIVATE BAG 92209,VICTORIA STREET WEST    Auckland 1030                   
+
+    AUCKLAND 1142                             AUCKLAND 1142                   
+
+
+                                                 Invoice No. 1087219 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             VODAMS                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800271 Milford Asset Mgmt Support & Maintenance 01/06/2016 to 31/05/2017                                                   9495.90
+    Support & Maintenance - Milford Asset Management                                                    
+    PO 1501256565 Vodafone - Start 1/6/2015 - 31/5/2016                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             9495.90
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1424.39
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total        10920.29
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    ACCIDENT COMPENSATION CORPORATION         ACCIDENT COMPENSATION CORPORATIO
+    P O BOX 242                               Please Add Address.             
+    WELLINGTON                                                                
+
+    /                                         /                               
+
+
+                                                 Invoice No. 1087220 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             ACCCOM                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800276 ACC TellUs Support 01/06/2016 to 30/06/2016                                                                         1855.00
+    TellUs Support                                                                                      
+    Cost Centre 140 - Start 1/11/14                                                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             1855.00
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 278.25
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         2133.25
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    FLEXIGROUP (NEW ZEALAND) LIMITED          FLEXIGROUP (NEW ZEALAND) LIMITED
+    P O BOX 90935                             LEVEL 14, BDO TOWER             
+    VICTORIA STREET WEST                      120 ALVERT STREET, AUCKLAND 1010
+
+    AUCKLAND 1010 .                           AUCKLAND 1010 .                 
+
+
+                                                 Invoice No. 1087221 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000902                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800296 Flexirent Vitility Fixed Service 01/06/2016 to 30/06/2016                                                            891.49
+    Vitility Service Schedule                                                                           
+    Contract: Like Wilkinson - Operations Manager                                                       
+    Vitility Fixed Service Fees $315.74                                                                 
+    Vitility per User Fees $575.75                                                                      
+    24 x 7x 365                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              891.49
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 133.72
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         1025.21
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    ROYAL NZ PLUNKET SOCIETY INC.             ROYAL NZ PLUNKET SOCIETY INC.   
+    P O BOX 5474                              126-132 LAMBTON QUAY            
+    WELLINGTON 6145                           WELLINGTON                      
+
+    WELLINGTON                                WELLINGTON                      
+
+
+                                                 Invoice No. 1087222 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             PLUSOC                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800331 Plunket Support & Maintenance 01/06/2016 to 30/06/2016                                                              2835.65
+    Maintenance and Support, Spare Parts, plus 3rd Party Fees                                           
+    Effective Date: 1 January 2016, Refer Siobhan Doyle ICT Operations Manager                          
+    Vitility $1405.40                                                                                   
+    Avaya Vendor Support Fees $607.18                                                                   
+    NICE Vendor Support fees $445.99                                                                    
+    SUN Server Support $377.08                                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             2835.65
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 425.35
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         3261.00
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    MERIAL NEW ZEALAND                        MERIAL NEW ZEALAND              
+    P O BOX 76-211                            LEVEL 3, MERIAL BUILDING,       
+    MANUKAU CITY                              2 OSTERLEY WAY, MANUKAU CITY    
+
+    AUCKLAND 2241                             AUCKLAND 2241                   
+
+
+                                                 Invoice No. 1087223 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             MERANC                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800332 Merial Ancare Support & Maintenance 01/06/2016 to 30/06/2016                                                         872.39
+    Avaya Communication Manager V5 with ACM and Modular Messaging V5.2                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              872.39
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 130.86
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         1003.25
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    New Zealand Transport Agency              New Zealand Transport Agency    
+    NZ Transport Agency,                                                      
+    c/-PO Box 30435 , Vendor58668                                             
+
+    Lower Hutt 5040                           Lower Hutt 5040                 
+
+
+                                                 Invoice No. 1087224 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             LANTRA                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800353 NZTA Support & Maintenance 01/06/2016 to 30/06/2016                                                                 7988.34
+    NZTA Support and Maintenance                                                                        
+    Avaya Call Manager                                                                                  
+    PID:17539 [apinvoices@nzta.govt.nz]                                                                 
+    CMS                                                                                                 
+    CCE                                                                                                 
+    With Extended hours coverage (07:00-22:00 Mon-Sat)                                                  
+    SS+U software protection                                                                            
+    Attention: Michelle Charlton                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             7988.34
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                1198.25
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         9186.59
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    New Zealand Transport Agency              New Zealand Transport Agency    
+    NZ Transport Agency,                                                      
+    c/-PO Box 30435 , Vendor58668                                             
+
+    Lower Hutt 5040                           Lower Hutt 5040                 
+
+
+                                                 Invoice No. 1087225 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             LANTRA                   27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800403 NZTA Service Management 01/06/2016 to 30/06/2016                                                                    3794.58
+    Work Force Management (WFM) - Service Management                                                    
+    PID: 50014 [apinvoices@nzta.govt.nz]                                                                
+    Attention: Michelle Charlton                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             3794.58
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 569.19
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         4363.77
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Ministry of Business Innovation & Employ  Ministry of Business Innovation 
+    P O BOX 1473                              Level 6, 15 Stout Street        
+                                              Wellington,                     
+
+    Wellington 5024                           Wellington 5024                 
+
+
+                                                 Invoice No. 1087226 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000792                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800416 MBIE Mumbai Support & Maintenance 01/06/2016 to 30/06/2016                                                           709.71
+    MBIE Mumbai Support & Maintenance - 1/05/2015 - 30/04/2016                                          
+    Attention: Nathanael Mackay                                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              709.71
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 106.46
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          816.17
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Ministry of Business Innovation & Employ  Ministry of Business Innovation 
+    P O BOX 1473                              Level 6, 15 Stout Street        
+                                              Wellington,                     
+
+    Wellington 5024                           Wellington 5024                 
+
+
+                                                 Invoice No. 1087227 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000792                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800416b MBIE Shanghai Support & Maintenance 01/06/2016 to 30/06/2016                                                       1073.78
+    MBIE Shanghai Support & Maintenance - 01/05/2015 - 30/04/2016                                       
+    Attention:  Jock Gilray                                                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total             1073.78
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                 161.07
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total         1234.85
+P@PW1            T A X  I N V O I C E PW0
+
+
+    Invoiced To
+
+    Ministry of Business Innovation & Employ  Ministry of Business Innovation 
+    P O BOX 1473                              Level 6, 15 Stout Street        
+                                              Wellington,                     
+
+    Wellington 5024                           Wellington 5024                 
+
+
+                                                 Invoice No. 1087228 
+    For enquiry on this invoice,               
+    Please ring Kim Niblett on 09477 0512.                                  1       
+
+
+                                             1000792                  27/04/16
+
+
+    Description                                                                                                             Total Cost
+
+    800416c MBIE London Support & Maintenance 01/06/2016 to 30/06/2016                                                          627.98
+    MBIE London Support & Maintenance - 01/05/2015 - 30/04/2016                                         
+    Attention:  Lucy Tuaifaiva                                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AGILE INTEGRATION LIMITED RETAINS TITLE TO                                                           Net Total              627.98
+    ALL GOODS UNTIL PAID FOR IN FULL                                                                     G.S.T.                  94.20
+
+    PAYMENT DUE ON :   20/05/16                                                                          Invoice Total          722.18
+P
